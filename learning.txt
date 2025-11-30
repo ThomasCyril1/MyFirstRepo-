@@ -1,0 +1,1 @@
+In this course, I have learned how to use Git and GitHub effectively, including creating repositories, branching, committing, and collaborating through pull requests. These skills are important for managing projects and working with a team.
